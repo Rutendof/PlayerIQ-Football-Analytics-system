@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML Models
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Datasets
+data/
+datasets/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
