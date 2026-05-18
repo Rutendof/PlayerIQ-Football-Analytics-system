@@ -6,7 +6,7 @@ The project was inspired by how modern football clubs increasingly rely on data-
 
 Through this project, I wanted to simulate how real football analytics systems are built and used within professional sporting environments.
 
----
+--
 
 #  Project Objectives
 
@@ -18,7 +18,7 @@ The main objectives of the project were to:
 - Create an interactive scouting dashboard for player comparison
 - Simulate a real-world sports analytics workflow from data processing to deployment
 
----
+--
 
 #  Key Features
 
@@ -52,7 +52,7 @@ The main objectives of the project were to:
 - Model Evaluation
 - Predictive Analytics
 
----
+--
 
 #  Machine Learning Workflow
 
@@ -86,7 +86,7 @@ I trained and evaluated multiple machine learning regression models to estimate 
 
 The final model was optimized using feature importance analysis and hyperparameter tuning.
 
----
+--
 
 #  Model Performance
 
@@ -112,7 +112,7 @@ The Streamlit dashboard allows users to:
 
 The interface was designed to simulate modern football recruitment and scouting systems used by professional clubs.
 
----
+--
 
 #  Business & Real-World Impact
 
@@ -151,7 +151,7 @@ playeriq/
 └── dashboard/
 ```
 
----
+--
 
 #  Installation & Setup
 
@@ -162,7 +162,7 @@ git clone https://github.com/YOUR_USERNAME/playeriq-football-analytics.git
 cd playeriq-football-analytics
 ```
 
----
+--
 
 ## Create Virtual Environment
 
@@ -184,7 +184,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
----
+--
 
 ## Install Dependencies
 
@@ -200,7 +200,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+--
 
 #  Future Improvements
 
@@ -212,17 +212,17 @@ Planned future improvements include:
 - Injury risk prediction
 - Cloud deployment and authentication systems
 
----
+--
 
 #  Author
 
-Rutendo Fiona  
+Rutendo Simango  
 Data Science | Machine Learning | Analytics
 
 GitHub: :contentReference[oaicite:0]{index=0}
 
 ---
 
-# 📜 License
+#  License
 
 This project was developed for educational, research, and portfolio purposes.
